@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/anatsenger/anatsenger/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
