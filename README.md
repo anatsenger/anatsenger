@@ -8,9 +8,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas;
-- 🌱 Estudanto Python e AWS;
-- 👨‍💻 Procurando vagas de Desenvolvera Back-End;
-- 💬 Me pergunte sobre Java | PHP;
+- 🌱 Estudanto Python e Angular;
+- 👨‍💻 Procurando vagas de Desenvolvera Full Stack;
 - 📫 E-mail: anathaissenger@hotmail.com;
 - 😄 Pronomes: ela/dela.
 
