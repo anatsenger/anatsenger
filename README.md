@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="150" alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=anatsenger&show_icons=true&theme=dracula&count_private=true&includes_all_commits=true"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=anatsenger" height="150" alt="languages graph"  />
+  <img src="https://github.com/anatsenger/anatsenger/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
