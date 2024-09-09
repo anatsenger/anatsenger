@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas;
 - 🌱 Estudanto Python e Angular;
-- 👨‍💻 Procurando vagas de Desenvolvera Full Stack;
+- ✨ Desenvolvedora Web (Python, Angular e AWS)
 - 📫 E-mail: anathaissenger@hotmail.com;
 - 😄 Pronomes: ela/dela.
 
